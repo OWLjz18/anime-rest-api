@@ -1,0 +1,11 @@
+{
+  "server": {
+    "port": 5000
+  },
+  "dbConfig": {
+    "user": "postgres",
+    "password": "",
+    "database": "animes_api",
+    "port": 5432
+  }
+}
